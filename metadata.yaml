@@ -1,0 +1,32 @@
+_repo: An-Essay-on-the-Lyric-Poetry-of-the-Ancients_25008
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Jackson, Wallace
+    birthdate: 1930
+    gutenberg_agent_id: '28336'
+    url: http://www.gutenberg.org/2009/agents/28336
+covers:
+- cover_type: archival
+  image_path: 25008-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ogilvie, John
+    birthdate: 1732
+    deathdate: 1813
+    gutenberg_agent_id: '28335'
+    url: http://www.gutenberg.org/2009/agents/28335
+description: ''
+gutenberg_issued: '2008-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical poetry -- History and criticism'
+- !lcc 'PA'
+title: An Essay on the Lyric Poetry of the Ancients
+url: http://www.gutenberg.org/ebooks/25008
