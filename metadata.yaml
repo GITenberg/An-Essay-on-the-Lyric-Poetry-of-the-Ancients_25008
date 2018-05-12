@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '28335'
     url: http://www.gutenberg.org/2009/agents/28335
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25008#An-Essay-on-the-Lyric-Poetry-of-the-Ancients
 gutenberg_issued: '2008-04-06'
 gutenberg_type: Text
 identifiers:
